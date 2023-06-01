@@ -18,7 +18,7 @@ This is a mongoDB based applciation that is the backend of a social networking p
     
 ## Installation
   
-Express, Mongodb and Mongoose. 
+Express, Mongodb and Mongoose. They are inclided in the package json so the user can install them all in one command.
     
 ## Usage
 Dependencies are in the package.json so the user only needs to download and run NPM I in the terminal
@@ -37,8 +37,6 @@ Week 18 content NoSQL Activities
 - 21/22
 - 25/26
 - and the Student Mini Project
-
-
 
 ## Questions
 
